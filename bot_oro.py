@@ -31,15 +31,21 @@ def obtener_precio_oro():
     return round(precio_gramo_24k, 2), round(precio_onza, 2)
 
 # Enviar mensaje por WhatsApp
+# Enviar mensaje por WhatsApp
 def enviar_mensaje(precio_gramo, precio_onza):
     mensaje = f"💰 *Precio del Oro Actualizado*\n\n🟡 Gramo 24k: {precio_gramo} USD\n🟡 Onza Troy: {precio_onza} USD"
     client = Client(twilio_sid, twilio_token)
-    client.messages.create(
-        body=mensaje,
-        from_=whatsapp_from,
-        to=whatsapp_to
-    )
-    print("✅ Mensaje enviado correctamente")
+
+    destinatarios = whatsapp_to.split(",")  # <- esta línea debe ir dentro de la función
+
+    for numero in destinatarios:
+        client.messages.create(
+            body=mensaje,
+            from_=whatsapp_from,
+            to=numero.strip()
+        )
+        print(f"✅ Mensaje enviado a {numero.strip()}")
+
 
 # Ejecutar
 if __name__ == "__main__":
