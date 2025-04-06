@@ -1,0 +1,20 @@
+/bin/bash: /Users/home/Desktop/bot_oro/run.sh: Operation not permitted
+/bin/bash: /Users/home/Desktop/bot_oro/run.sh: Operation not permitted
+/bin/bash: /Users/home/Desktop/bot_oro/run.sh: Operation not permitted
+/Users/home/proyectos/bot_oro/run.sh: line 3: /Users/home/Desktop/bot_oro/logs/log_debug.txt: No such file or directory
+/Users/home/proyectos/bot_oro/run.sh: line 6: /Users/home/Desktop/bot_oro/venv/bin/activate: No such file or directory
+grep: /Users/home/Desktop/bot_oro/.env: No such file or directory
+/Users/home/proyectos/bot_oro/run.sh: line 12: /Users/home/Desktop/bot_oro/venv/bin/python: No such file or directory
+/Users/home/proyectos/bot_oro/run.sh: line 15: /Users/home/Desktop/bot_oro/logs/log_debug.txt: No such file or directory
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `:': not a valid identifier
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `/Users/home/Desktop/bot_oro/run.sh': not a valid identifier
+python-dotenv could not parse statement starting at line 6
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `:': not a valid identifier
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `/Users/home/Desktop/bot_oro/run.sh': not a valid identifier
+python-dotenv could not parse statement starting at line 6
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `:': not a valid identifier
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `/Users/home/Desktop/bot_oro/run.sh': not a valid identifier
+python-dotenv could not parse statement starting at line 6
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `:': not a valid identifier
+/Users/home/proyectos/bot_oro/run.sh: line 9: export: `/Users/home/Desktop/bot_oro/run.sh': not a valid identifier
+python-dotenv could not parse statement starting at line 6

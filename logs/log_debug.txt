@@ -1,9 +1,0 @@
-Cron ejecutó esto a domingo,  6 de abril de 2025, 01:01:04 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 01:02:03 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 01:05:06 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 01:39:39 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 01:48:50 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 02:10:17 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 02:17:37 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 02:19:36 CEST
-Cron ejecutó esto a domingo,  6 de abril de 2025, 02:20:01 CEST
